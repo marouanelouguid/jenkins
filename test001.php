@@ -17,5 +17,7 @@
     ?>
 
     <p>This is an HTML paragraph outside of PHP.</p>
+    <p>This is an HTML paragraph outside of PHP.</p>
+</body>
 </body>
 </html>
