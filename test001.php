@@ -7,7 +7,7 @@
     <h1>Hello, this is a PHP Test Page</h1>
 
     <?php
-    // PHP code starts here
+    // PHP code starts heree
     $name = "John Doe";
     $age = 30;
 
@@ -17,7 +17,8 @@
     ?>
 
     <p>This is an HTML paragraph outside of PHP.</p>
-    <p>This is an HTML paragraph outside of PHP.</p>
+    <p>This is an HTML paragraph outside off PHP.</p>
+    <p>This is an HTML paragraph outside off PHP.</p>
 </body>
 </body>
 </html>
