@@ -21,6 +21,8 @@
     <p>This is an HTML paragraph outside off PHP.</p>
     <p>This is an HTML paragraph outside off PHP.</p>
     <p>This is an HTML paragraph outside off PHP.</p>
+    <p>This is an HTML paragraph outside off PHP.</p>
+    <p>This is an HTML paragraph outside off PHP.</p>
 
 </body>
 </body>
