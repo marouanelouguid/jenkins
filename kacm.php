@@ -1,1 +1,1 @@
-echo " dima kacm 1947 "
+echo " cb06 "
