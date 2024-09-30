@@ -11,7 +11,7 @@ steps:
     addToPath: true
 
 - script: |
-    echo "Testing SSH connection and running PHP script remotely from aws"
+    echo "Testing SSH connection and running PHP script remotely"
     chmod +x test_connection.sh
     ./test_connection.sh
   displayName: 'Run SSH Connection Test'
