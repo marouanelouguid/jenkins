@@ -1,0 +1,17 @@
+trigger:
+- main  # Or specify your branch
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.x'
+    addToPath: true
+
+- script: |
+    echo "Testing SSH connection and running PHP script remotely"
+    chmod +x test_connection.sh
+    ./test_connection.sh
+  displayName: 'Run SSH Connection Test'
