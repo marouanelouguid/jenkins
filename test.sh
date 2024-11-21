@@ -4,8 +4,8 @@
 REMOTE_USER="debian"
 REMOTE_HOST="10.10.10.10"
 REMOTE_PATH="/var/www/html"  # Path where files will be uploaded on remote server
-LOCAL_PATH="/path/to/your/local/files"  # Path to your local files
-KEY_PATH="/path/to/your/private/key"  # Path to your SSH private key
+LOCAL_PATH="/path/to/local/files"  # Path to your local files
+KEY_PATH="/path/to/private/key"  # Path to your SSH private key
 
 # Test SSH Connection
 echo "Testing SSH connection to $REMOTE_USER@$REMOTE_HOST"
